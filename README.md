@@ -20,7 +20,7 @@ As a result, the encoded strings can be lexically sorted if either a sorting ord
 
 First `go get` the package:
 ```
-go get github.com/mattheath/base62
+go get github.com/blackplusdark/base62
 ```
 
 This can then be used as below:
