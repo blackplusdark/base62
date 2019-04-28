@@ -30,7 +30,7 @@ package main
 import (
     "fmt"
     "math/big"
-    "github.com/mattheath/base62"
+    "github.com/blackplusdark/base62"
 )
 
 func main() {
